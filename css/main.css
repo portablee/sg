@@ -38,7 +38,7 @@ h1 {
 h2 {
   font-size: 40px;
   color: #2d3033;
-  letter-spacing: 1pt;
+  letter-spacing: 1pt;/* Rubén*/
 }
 h3 {
   font-size: 28px;
@@ -55,7 +55,13 @@ h5 {
   color: #8a9498;
   text-transform: uppercase;
   font-weight: 700;
-  letter-spacing: 1pt;
+  letter-spacing: 1pt;/* Rubén*/
+}
+
+
+
+.col-md-6 blockquote p{ /* Rubén*/
+    font-size: 18px;
 }
 
 
