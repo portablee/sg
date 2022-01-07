@@ -10,8 +10,9 @@
 -------------------------------------------------------------------------------*/
 
 @import url(
-  http://fonts.googleapis.com/css?family=Source%20Sans%20Pro:300,
-  400,
+  @importurl(
+      "https://fonts.googleapis.com/css2?family=Righteous&family=Roboto:wght@100;300;400;500&family=Sarala&display=swap"
+    );400,
   500,
   600,
   700
@@ -38,7 +39,7 @@ h1 {
 h2 {
   font-size: 40px;
   color: #2d3033;
-  letter-spacing: 1pt;/* Rubén*/
+  letter-spacing: 1pt; /* Rubén*/
 }
 h3 {
   font-size: 28px;
@@ -55,15 +56,13 @@ h5 {
   color: #8a9498;
   text-transform: uppercase;
   font-weight: 700;
-  letter-spacing: 1pt;/* Rubén*/
+  letter-spacing: 1pt; /* Rubén*/
 }
 
-
-
-.col-md-6 blockquote p{ /* Rubén*/
-    font-size: 18px;
+.col-md-6 blockquote p {
+  /* Rubén*/
+  font-size: 18px;
 }
-
 
 .btn {
   background-color: #3bc492;
@@ -101,8 +100,9 @@ a:focus {
   transition: background-color, color, 0.3s;
 }
 body {
-  font-family: "Source Sans Pro";
-  font-weight: 400;
+  font-family: "Montserrat", sans-serif;
+
+  font-weight: 200;
   color: #6c7279;
 }
 ul,
@@ -344,7 +344,7 @@ ul li {
 }
 .banner-text h1 {
   color: #fff;
-  font-family: "Source Sans Pro";
+  font-family: "Montserrat", sans-serif;
   font-size: 53px;
   letter-spacing: 20px;
   font-weight: 700;
