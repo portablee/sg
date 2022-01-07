@@ -44,7 +44,7 @@ h2 {
 h3 {
   font-size: 28px;
   color: #2d3033;
-  font-weight: 300;
+  font-weight: 800;
 }
 h4 {
   font-size: 22px;
@@ -370,19 +370,22 @@ ul li {
 .intro blockquote {
   border: 0;
   margin: 0;
-  padding: 100px 15% 0;
+  padding: 50px 15% 0;
 }
 .intro h1 {
-  color: #000;
-  font: 27px "Source Sans Pro";
+  color: rgba(139, 168, 168, 0.454);
+  font: 57px "Righteous" "Moserrat";
+  line-height: 90%;
+  text-transform: uppercase;
 }
 .intro p {
-  color: #6c7279;
+  color: #6c727975;
   display: block;
   font-size: 13px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 200;
   margin-top: 30px;
+  text-align: justify;
 }
 /* ------------------------------------------------------------------------------
 	 Services
@@ -398,7 +401,8 @@ ul li {
   margin-top: 30px;
 }
 .services .icon {
-  color: #e84545;
+  /*color: #e84545;*/
+  color: #47998ba4;
   font-size: 36px;
   padding-left: 15px;
 }
@@ -550,9 +554,10 @@ ul li {
   margin: 0;
   padding: 100px 15%;
 }
-.testimonials h1 {
+
+.testimonials h3 {
   color: #fff;
-  font: 23px "Source Sans Pro";
+  font: 23px "Montserrat" "Righteous";
   font-weight: 300;
 }
 .testimonials p {
