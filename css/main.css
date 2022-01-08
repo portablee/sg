@@ -364,7 +364,7 @@ ul li {
 	 Intro
 -------------------------------------------------------------------------------*/
 .intro {
-  background-color: #e9eaed;
+  background-color: rgba(232, 69, 69, 0.9);
   position: relative;
 }
 .intro blockquote {
@@ -373,13 +373,13 @@ ul li {
   padding: 50px 15% 0;
 }
 .intro h1 {
-  color: rgba(139, 168, 168, 0.454);
+  color: rgba(252, 248, 248, 0.94);
   font: 57px "Righteous" "Moserrat";
   line-height: 90%;
   text-transform: uppercase;
 }
 .intro p {
-  color: #6c727975;
+  color: #eef4fade;
   display: block;
   font-size: 13px;
   font-style: normal;
