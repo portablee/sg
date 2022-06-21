@@ -577,10 +577,12 @@ ul li {
   margin-top: 0;
 }
 .quote p {
-  color: #2d3033;
+  color: #6aaa4d;
   font-weight: 600;
-  text-transform: uppercase;
+  text-transform: lowercase;
 }
+
+
 .quote .btn {
   margin-top: 30px;
 }
