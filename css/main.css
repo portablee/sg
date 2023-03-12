@@ -670,7 +670,8 @@ ul li {
 .quote p {
     color: #2d3033;
     font-weight: 600;
-    text-transform: uppercase;
+    text-transform: inherit;
+    color: #e89745;
 }
 
 .quote .btn {
@@ -680,6 +681,9 @@ ul li {
 /* ------------------------------------------------------------------------------
 	 Footer
 -------------------------------------------------------------------------------*/
+
+
+
 .footer {
     text-align: left;
 }
