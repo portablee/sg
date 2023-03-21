@@ -38,22 +38,23 @@ h1 {
 }
 
 h2 {
-    font-size: 40px;
+    font-size: 28px;
     color: #e89745;
-    letter-spacing: 2pt;
-    /* Rubén*/
+    font-weight: 800;
+    
 }
 
 h3 {
     font-size: 28px;
-    color: #2d3033;
+    color: #faf7f3;
     font-weight: 800;
+    /* Rubén*/
 }
 
 h4 {
     font-size: 22px;
     color: #8a9498;
-    font-weight: 400;
+    font-weight: 800;
 }
 
 h5 {
@@ -389,7 +390,7 @@ ul li {
 }
 
 .banner-text h1 {
-    color: #fff;
+    color: #e89745;
     font-family: "Montserrat", sans-serif;
     font-size: 53px;
     letter-spacing: 20px;
