@@ -393,9 +393,9 @@ ul li {
     color: #e89745;
     font-family: "Montserrat", sans-serif;
     font-size: 53px;
-    letter-spacing: 20px;
+    letter-spacing: 0,8pxpx;
     font-weight: 700;
-    text-transform: uppercase;
+    text-transform: lowercase;
 }
 
 .banner-text p {
